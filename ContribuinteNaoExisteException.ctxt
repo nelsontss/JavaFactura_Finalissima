@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ContribuinteNaoExisteException
+comment0.text=\n\ Exce\u00E7\u00E3o\ para\ a\ n\u00E3o\ exist\u00EAncia\ do\ contribuinte.\n\ @version\ 27/05\n
+comment1.params=
+comment1.target=ContribuinteNaoExisteException()
+comment1.text=\n\ Constructor\ vazio\ para\ a\ exce\u00E7\u00E3o\n
+comment2.params=msg
+comment2.target=ContribuinteNaoExisteException(java.lang.String)
+comment2.text=\n\ Constructor\ standart\ para\ a\ exce\u00E7\u00E3o\n
+numComments=3

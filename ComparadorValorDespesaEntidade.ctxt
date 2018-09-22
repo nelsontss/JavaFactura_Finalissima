@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComparadorValorDespesaEntidade
+comment0.text=\n\ Comparador\ de\ valor\ de\ despesas\ de\ entidades.\n\ @version\ 27/05\n
+comment1.params=e1\ e2
+comment1.target=int\ compare(Entidade,\ Entidade)
+comment1.text=\n\ Metodo\ que\ compara\ o\ valor\ de\ despesa\ de\ duas\ entidades\n\ @param\ e1\ Entidade\ 1\n\ @param\ e2\ Entidade\ 2\n\ @return\ resultado\ da\ compara\u00E7\u00E3o\n
+numComments=2

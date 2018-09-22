@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AtividadesEconomicas
+comment0.text=\n\ Atividades\ Econ\u00F3micas.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=double\ getFatorDed()
+comment1.text=\n\ Obt\u00E9m\ o\ fator\ de\ dedu\u00E7\u00E3o\n
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment2.text=\n\ Obt\u00E9m\ o\ nome\n
+comment3.params=
+comment3.target=double\ getValorMax()
+comment3.text=\n\ Obt\u00E9m\ o\ valor\ m\u00E1ximo\n
+numComments=4

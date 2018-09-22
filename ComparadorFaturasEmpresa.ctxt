@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparadorFaturasEmpresa
+comment0.text=\n\ Comparador\ de\ faturas\ de\ empresas.\n\ @version\ 27/05\n
+comment1.params=e1\ e2
+comment1.target=int\ compare(Entidade,\ Entidade)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComparadorData
+comment0.text=\n\ Comparador\ de\ datas.\n\ @version\ 27/05\n
+comment1.params=f1\ f2
+comment1.target=int\ compare(Fatura,\ Fatura)
+comment1.text=\n\ Metodo\ que\ compara\ a\ data\ de\ duas\ faturas\n\ @param\ f1\ Fatura\ 1\n\ @param\ f2\ Fatura\ 2\n\ @return\ resultado\ da\ compara\u00E7\u00E3o\n
+numComments=2
